@@ -495,7 +495,10 @@
     "stryker-js": "https://github.com/stryker-mutator/stryker-js",
     "surveyjs": "https://github.com/surveyjs/surveyjs",
     "swashbuckle-aspnetcore": "https://github.com/domaindrivendev/Swashbuckle.AspNetCore",
-    "system.io.abstractions": "https://github.com/System-IO-Abstractions/System.IO.Abstractions/",
+    "system.io.abstractions": [
+      "https://github.com/System-IO-Abstractions/System.IO.Abstractions/",
+      "https://github.com/TestableIO/System.IO.Abstractions"
+    ]
     "tamagui": "https://github.com/tamagui/tamagui",
     "tanstack-query": "https://github.com/TanStack/query",
     "tanstack-router": "https://github.com/TanStack/router",
